@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-tagline: Dongming Huang
+title: Dongming Huang
+tagline: Home Page
 description: Personal Webpage
 ---
 
