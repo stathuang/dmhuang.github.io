@@ -10,10 +10,7 @@ I am a 4th year Ph.D. studuent in statistics department at Harvard University. M
 
 ## Contact
 
-Science Center 908
-
-One Oxford Street
-
-Cambridge, MA 02138
-
+Science Center 908\\
+One Oxford Street\\
+Cambridge, MA 02138\\
 dhuang01@g.harvard.edu
