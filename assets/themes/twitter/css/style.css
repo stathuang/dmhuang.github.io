@@ -73,7 +73,7 @@ p {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 body {
-    margin: 0px auto;
+  /*  margin: 0px auto; */
     width: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
