@@ -7,7 +7,7 @@ description: Personal Webpage
 
 I am a 4th year Ph.D. studuent in statistics at Harvard University. My research interests include high-dimensional statistics and Bayesian methodology. Specifically, 
 
-### Contact
+**Contact**
 
 Science Center 908\\
 One Oxford Street\\
