@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dongming Huang
 tagline: Home Page
 description: Personal Webpage
