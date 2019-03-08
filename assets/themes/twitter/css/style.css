@@ -67,14 +67,14 @@
   color: #FFF; }
 
 p {
-    font-size: 1.2em;
-    line-height: 1.5em;
+    font-size: 1.1em;
+    line-height: 1.4em;
     color: #000;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 body {
-    margin: 60px auto;
-    width: 90%;
+    margin: 0px auto;
+    width: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
