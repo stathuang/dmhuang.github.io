@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-tagline: Research
+title: Publication
+tagline: Publication
 description: List of Publication
 ---
 
