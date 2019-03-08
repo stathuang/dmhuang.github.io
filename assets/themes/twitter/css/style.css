@@ -72,12 +72,14 @@ p {
     color: #000;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
-
-/* 
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
+    font-family: Verdana, Helvetica, sans-serif;
 }
+
+
+/*
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
