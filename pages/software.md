@@ -5,3 +5,5 @@ tagline: R code
 description: software for research use
 ---
 
+- R Source Code for Generating Conditional Knockoff [github](https://github.com/stathuang/cknockoff)
+- 
