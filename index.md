@@ -8,7 +8,7 @@ description: Personal Webpage
 I am a 4th year Ph.D. student in statistics from Harvard University. My research interests include high-dimensional statistics and Bayesian inference. I am especially interested in developing new methodologies for more efficient and stable analyses of the dependence structure in high-dimensional data, which include dimension reduction and variable selection. 
 Meanwhile, I enjoy establishing the theoretical guarantees for these new methods with probabilistic tools such as random matrices theories and information theories. 
 
-![](pic/IMG_1660.jpeg)
+![](pic/IMG_1660.jpeg){:height="50%" width="50%"}
 
 **Contact**
 
