@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Dongming Huang
+title: Home
 tagline: Home Page
 description: Personal Webpage
 ---
+
+# Dongming Huang
 
 I am a 4th year Ph.D. student in statistics at Harvard University, coadvised by Samuel Kou and Lucas Janson. My research interests include high-dimensional statistics and Bayesian inference. 
 
@@ -18,4 +20,4 @@ Specifically, I have been worked on dimension reduction using inverse regression
 Science Center 908\\
 One Oxford Street\\
 Cambridge, MA 02138\\
-[dhuang01@g.harvard.edu]
+[dhuang01@g.harvard.edu](mailto:dhuang01@g.harvard.edu)
