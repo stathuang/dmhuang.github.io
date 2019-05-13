@@ -5,7 +5,7 @@ tagline: Home Page
 description: Personal Webpage
 ---
 
-# Dongming Huang
+## Dongming Huang
 
 I am a 4th year Ph.D. student in statistics at Harvard University, coadvised by Samuel Kou and Lucas Janson. My research interests include high-dimensional statistics and Bayesian inference. 
 
