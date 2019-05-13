@@ -5,8 +5,11 @@ tagline: Home Page
 description: Personal Webpage
 ---
 
-I am a 4th year Ph.D. student in statistics from Harvard University. My research interests include high-dimensional statistics and Bayesian inference. I am especially interested in developing new methodologies for more efficient and stable analyses of the dependence structure in high-dimensional data, which include dimension reduction and variable selection. 
-Meanwhile, I enjoy establishing the theoretical guarantees for these new methods with probabilistic tools such as random matrices theories and information theories. 
+I am a 4th year Ph.D. student in statistics at Harvard University, coadvised by Samuel Kou and Lucas Janson. My research interests include high-dimensional statistics and Bayesian inference. 
+
+I am especially interested in developing new methods for  efficient and stable statistical analyses of the dependence structure in high-dimensional data, and establishing the theoretical guarantees as well as optimialities for these new methods. 
+Specifically, I have been worked on dimension reduction using inverse regression and variable selection using Model-X knockoffs.
+
 
 ![](pic/IMG_1660.jpeg){:height="50%" width="50%"}
 
