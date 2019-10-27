@@ -4,6 +4,7 @@ title: Teaching
 tagline: Teaching
 description: Course I taught and am teaching
 ---
+I have been a Teaching Fellow for the following courses at Harvard University. 
 
 - STAT 140 Design of Experiments, Fall 2016
 - STAT 186 Statistical Methods for Evaluating Causal Effects, Spring 2017
