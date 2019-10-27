@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Software
 tagline: R code
 description: software for research use
