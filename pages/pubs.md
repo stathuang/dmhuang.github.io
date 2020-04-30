@@ -7,6 +7,7 @@ description: List of Publication
 
 - Dongming Huang, Nathan Stein, Donald B. Rubin, S. C. Kou\\
 Catalytic Prior Distributions with Application to Generalized Linear Models. Submitted; available upon request. 
+[online doc](https://drive.google.com/open?id=18q2l2sEatr-LISHm_2fY4S95kbEGi5MQ)
 
 
 - Dongming Huang, Lucas Janson\\
