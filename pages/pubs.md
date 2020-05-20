@@ -6,7 +6,7 @@ description: List of Publication
 ---
 
 - Dongming Huang, Nathan Stein, Donald B. Rubin, S. C. Kou\\
-Catalytic Prior Distributions with Application to Generalized Linear Models. Proceedings of the National Academy of Science, 2020. [link](https://www.pnas.org/content/early/2020/05/14/1920913117), [PDF](https://www.pnas.org/content/pnas/early/2020/05/14/1920913117.full.pdf) 
+Catalytic Prior Distributions with Application to Generalized Linear Models. Proceedings of the National Academy of Science, 2020. [PDF](https://www.pnas.org/content/pnas/early/2020/05/14/1920913117.full.pdf), [link](https://www.pnas.org/content/early/2020/05/14/1920913117)
 
 
 - Dongming Huang, Lucas Janson\\
