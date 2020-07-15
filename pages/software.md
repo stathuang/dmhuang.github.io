@@ -5,5 +5,7 @@ tagline: R code
 description: software for research use
 ---
 
-- R Source Code for generating Conditional Knockoffs is available at [github](https://github.com/stathuang/cknockoff), with
+- R source code for generating conditional knockoffs is available at [github](https://github.com/stathuang/cknockoff), with
 [Tutorials](../tutorials/cknockoff/)
+
+- R source code for illustrating catalytic prior in logistic regression at [github](https://github.com/stathuang/catalytic)
